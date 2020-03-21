@@ -1,2 +1,8 @@
 # hello-world
-Just another repos..represento.. fuuu, who to remember it correctly? Is there any hack?! :P
+
+Hi, Hoooumans!
+
+Am Natalie, new to the front-end development, but old to learn it only with lectures.
+Let's rock this house and make some tasks here, in order to let me grow as a profi!
+
+Cheers everyone!
